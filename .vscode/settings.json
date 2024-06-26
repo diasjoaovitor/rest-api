@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "csharpier.csharpier-vscode",
+  "files.autoSave": "off",
+  "git.autofetch": true
+}
